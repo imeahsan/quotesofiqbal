@@ -1,0 +1,42 @@
+body {
+  background-color: #16c79a;
+  margin: 0px;
+}
+
+hr {
+   border: 1px dotted white;
+
+}
+
+.top {
+  background-color: #00587a;
+  height: 90px;
+}
+
+.logo {
+  width: 100px
+
+}
+.fb{
+  color: White;
+  position: absolute;
+  top: 65px;
+  left: 120px;
+  }
+
+
+
+
+
+.pic {
+  float: left;
+  border-color: #393e46;
+  border-style: solid;
+  border-radius:  20px;
+  margin: 20px;
+  width: 400px;
+  height: 300px;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
